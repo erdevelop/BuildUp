@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bina_1_Text
+  - Bina_2_Text
+  - Bina_3_Text
   layers:
   - Default
   - TransparentFX
